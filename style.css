@@ -44,7 +44,7 @@ header > .mh-logo {
 .intro {
   margin-left: 24px;
   margin-right: 24px;
-  font-family: Poppins, sans-serif;
+  font-family: 'Poppins', 'sans-serif';
   font-weight: bold;
   width: 327px;
   font-size: 52px;
@@ -77,7 +77,7 @@ header > .mh-logo {
 
 .secondary-text {
   margin-left: 24px;
-  font-family: Poppins, sans-serif;
+  font-family: 'Poppins', 'sans-serif';
   margin-right: 24px;
   padding-top: 10px;
   font-weight: normal;
