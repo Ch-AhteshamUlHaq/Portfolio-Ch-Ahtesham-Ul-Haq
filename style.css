@@ -4,6 +4,7 @@
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
 }
+
 header {
   display: flex;
   background-color: #fff;
@@ -12,6 +13,7 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+
 .mh-logo {
   display: flex;
   color: #5969fa;
@@ -19,12 +21,15 @@ header {
   text-align: center;
   margin-left: 24px;
 }
+
 header > .mh-logo {
   font-size: 18px;
 }
+
 .main-nav {
   margin-right: 34px;
 }
+
 .headline {
   display: flex;
   flex-direction: column;
@@ -35,6 +40,7 @@ header > .mh-logo {
   background-size: 100% 100%;
   padding: 90px 24px;
 }
+
 .intro {
   margin-left: 24px;
   margin-right: 24px;
@@ -44,15 +50,18 @@ header > .mh-logo {
   font-size: 52px;
   line-height: 52px;
 }
+
 .intro-connect {
   width: 60%;
   padding-left: 15px;
   text-decoration: none;
 }
+
 .let-connet {
   text-decoration: none;
   color: #7f8cff;
 }
+
 .primary-text {
   font-family: 'Poppins', 'Arial';
   font-style: normal;
@@ -65,6 +74,7 @@ header > .mh-logo {
   align-items: center;
   letter-spacing: 0.37px;
 }
+
 .secondary-text {
   margin-left: 24px;
   font-family: Poppins;
@@ -86,6 +96,7 @@ header > .mh-logo {
   font-size: 20px;
   line-height: 28px;
 }
+
 .connect {
   width: 117px;
   height: 24px;
@@ -96,9 +107,11 @@ header > .mh-logo {
   line-height: 24px;
   color: #7f8cff;
 }
+
 .social-anchors {
   display: flex;
 }
+
 .social-link {
   padding-left: 10px;
   list-style-type: none;
