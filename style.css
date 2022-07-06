@@ -34,7 +34,7 @@ header > .mh-logo {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  font-family: 'Poppins', 'sans-serif';
+  font-family: Poppins, sans-serif;
   background-image: url(./Images/bg.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -44,7 +44,7 @@ header > .mh-logo {
 .intro {
   margin-left: 24px;
   margin-right: 24px;
-  font-family: 'Poppins', 'sans-serif';
+  font-family: Poppins, sans-serif;
   font-weight: bold;
   width: 327px;
   font-size: 52px;
@@ -63,7 +63,7 @@ header > .mh-logo {
 }
 
 .primary-text {
-  font-family: 'Poppins', 'sans-serif';
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 48px;
@@ -77,7 +77,7 @@ header > .mh-logo {
 
 .secondary-text {
   margin-left: 24px;
-  font-family: 'Poppins', 'sans-serif';
+  font-family: Poppins, sans-serif;
   margin-right: 24px;
   padding-top: 10px;
   font-weight: normal;
@@ -98,7 +98,7 @@ header > .mh-logo {
 .connect {
   width: 117px;
   height: 24px;
-  font-family: 'Poppins', 'sans-serif';
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
