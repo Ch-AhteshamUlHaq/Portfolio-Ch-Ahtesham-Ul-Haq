@@ -1,14 +1,13 @@
-# Portfolio-Ch-Ahtesham-Ul-Haq
 Setup and Mobile version skeleton
 
 Hi, I simple coded the mobile version with the help of flexbox and figma features.
 It is a structure where we decorate and furnishe further. 
 
-Built with languages
-HTML & CSS
+
+Built With
+Major languages
 Frameworks
-Technologies used
-Linters, HTML, and CSS
+Technologies used Html, Css, linters.
 
 To get a local copy up and running follow these simple example steps.
 
@@ -18,10 +17,12 @@ Install
 Usage
 Run tests
 Deployment
+Authors
+👤 Author
 
-👤 Author Ahtesham Ul Haq
-
-GitHub:https://www.linkedin.com/in/ch-ahtesham-ul-haq-b5318b152/
+GitHub: @ch-ahtesham-ul-haq
+Twitter: @chaury39
+LinkedIn: https://www.linkedin.com/in/ch-ahtesham-ul-haq-b5318b152/
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
