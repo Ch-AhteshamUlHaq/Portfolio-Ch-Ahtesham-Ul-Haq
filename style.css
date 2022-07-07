@@ -26,7 +26,7 @@ header {
   font-family: Poppins, sans-serif;
   display: flex;
   font-weight: 700;
-  text-decoration: none
+  text-decoration: none;
 }
 
 header > .mh-logo {
